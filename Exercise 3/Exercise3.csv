@@ -1,0 +1,17 @@
+﻿Title;Red;Green;Blue;Text color;Order
+Black;0;0;0;White;10
+White;255;255;255;Black;20
+Red;255;0;0;White;30
+Lime;0;255;0;Black;40
+Blue;0;0;255;White;50
+Yellow;255;255;0;Black;60
+Cyan;0;255;255;Black;70
+Magenta;255;0;255;White;80
+Silver;192;192;192;Black;90
+Gray;128;128;128;White;100
+Maroon;128;0;0;White;110
+Olive;128;128;0;White;120
+Green;0;128;0;White;130
+Purple;128;0;128;White;140
+Teal;0;128;128;White;150
+Navy;0;0;128;White;160
